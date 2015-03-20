@@ -28,6 +28,10 @@ e.g.
 
 This will install **Atlassian Plugin SDK 4.2.x** running off Maven 2.1.0	
 
+	brew install dvdsmpsn/tap/maven325
+
+This will install maven 3.2.5
+
 ## Contributing Formulae
 
 If you're an Atlassian, go to town -- just make sure you follow the [Formula Cookbook](https://github.com/mxcl/homebrew/wiki/Formula-Cookbook).
