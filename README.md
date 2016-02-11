@@ -10,6 +10,8 @@ With Atlassian Plugin SDK 5.0.0, they've moved to Maven 3.2.1. That's nice, but 
 
 This version is for the legacy users. It works nicely with Confluence 4.x.
 
+*Update:* With Atlassian SDK currently at 6.x, I've added support for v5.0.x
+
 ## Usage
 
 First, add this tap to your Brew:
@@ -22,11 +24,22 @@ Next, draft from the tap:
 
 Third, enjoy your new brew.
 
-e.g.
+
+### Atlassian SDK 5.0
+
+	brew install dvdsmpsn/tap/atlassian-plugin-sdk-50
+
+This will install Atlassiain SDK 5.0.4 
+
+
+### Atlassian SDK 4.2
 
     brew install dvdsmpsn/tap/atlassian-plugin-sdk-42
 
 This will install **Atlassian Plugin SDK 4.2.x** running off Maven 2.1.0	
+
+
+### Maven 3.2.5
 
 	brew install dvdsmpsn/tap/maven325
 
