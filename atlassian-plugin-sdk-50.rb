@@ -1,6 +1,6 @@
 require 'formula'
 
-class AtlassianPluginSdk42 < Formula
+class AtlassianPluginSdk50 < Formula
   homepage 'https://developer.atlassian.com/display/DOCS/Atlassian+Plugin+SDK+Documentation'
   url 'https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/amps/atlassian-plugin-sdk/5.0.4/atlassian-plugin-sdk-5.0.4.tar.gz'
   sha1 '3ef24d40ef6924ef535ccff7f91d0f2ca10fbccf'
