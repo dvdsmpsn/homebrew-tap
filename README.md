@@ -10,7 +10,7 @@ With Atlassian Plugin SDK 5.0.0, they've moved to Maven 3.2.1. That's nice, but 
 
 This version is for the legacy users. It works nicely with Confluence 4.x.
 
-*Update:* With Atlassian SDK currently at 6.x, I've added support for v5.0.x
+**Update:** With Atlassian SDK currently at 6.x, I've added support for v5.0.x
 
 ## Usage
 
