@@ -30,6 +30,14 @@ Need to swap between versions?
     brew install dvdsmpsn/tap/<formula-y>
 
 
+### Atlassian SDK 6.1
+
+	brew install dvdsmpsn/tap/atlassian-plugin-sdk-61
+
+This will install Atlassiain SDK 6.1.0 
+
+
+
 ### Atlassian SDK 5.0
 
 	brew install dvdsmpsn/tap/atlassian-plugin-sdk-50
