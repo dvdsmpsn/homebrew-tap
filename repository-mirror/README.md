@@ -2,7 +2,9 @@ Some of the older legacy versions of Atlassian SDK are no longer hosted in Atlas
 
 Where it's important to keep them, I'll subdirectories from [https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/amps/atlassian-plugin-sdk/](https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/amps/atlassian-plugin-sdk/) into this directory and serve them via [RawGit](https://rawgit.com).
 
-The last time I looked, these where the versions which were available: 
+The last time I looked, these where the versions which were available:
+
+Index of [/repositories/atlassian-public/com/atlassian/amps/atlassian-plugin-sdk](https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/amps/atlassian-plugin-sdk/)
 
 - [4.2.20/](https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/amps/atlassian-plugin-sdk/4.2.20/)	Tue Feb 23 10:36:37 UTC 2016	 	
 - [5.0.3/](https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/amps/atlassian-plugin-sdk/5.0.3/)	Tue Feb 23 10:19:16 UTC 2016	 	
