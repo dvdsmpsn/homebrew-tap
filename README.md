@@ -24,6 +24,11 @@ Next, draft from the tap:
 
 Third, enjoy your new brew.
 
+Need to swap between versions?
+
+    brew uninstall dvdsmpsn/tap/<formula-x>
+    brew install dvdsmpsn/tap/<formula-y>
+
 
 ### Atlassian SDK 5.0
 
@@ -47,4 +52,4 @@ This will install maven 3.2.5
 
 ## Contributing Formulae
 
-If you're an Atlassian, go to town -- just make sure you follow the [Formula Cookbook](https://github.com/mxcl/homebrew/wiki/Formula-Cookbook).
+Submit a pull request (just make sure you follow the [Formula Cookbook](https://github.com/mxcl/homebrew/wiki/Formula-Cookbook)) or create an issue.
