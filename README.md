@@ -10,7 +10,7 @@ With Atlassian Plugin SDK 5.0.0, they've moved to Maven 3.2.1. That's nice, but 
 
 This version is for the legacy users. It works nicely with Confluence 4.x.
 
-**Update:** With Atlassian SDK currently at 6.x, I've added support for v5.0.x
+**Update:** With Atlassian SDK currently at 6.2.x, I've added support for v6.1.0 & v5.0.x
 
 ## Usage
 
@@ -28,6 +28,14 @@ Need to swap between versions?
 
     brew uninstall dvdsmpsn/tap/<formula-x>
     brew install dvdsmpsn/tap/<formula-y>
+
+
+### Atlassian SDK 6.1
+
+	brew install dvdsmpsn/tap/atlassian-plugin-sdk-61
+
+This will install Atlassiain SDK 6.1.0 
+
 
 
 ### Atlassian SDK 5.0
