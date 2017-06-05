@@ -3,7 +3,8 @@ require 'formula'
 class AtlassianPluginSdk61 < Formula
   homepage 'https://developer.atlassian.com/display/DOCS/Atlassian+Plugin+SDK+Documentation'
   url 'https://maven.atlassian.com/content/repositories/atlassian-public/com/atlassian/amps/atlassian-plugin-sdk/6.1.0/atlassian-plugin-sdk-6.1.0.tar.gz'
-  sha1 '609c995fefe0d6abaf9f50759f066426475bd57c'
+  mirror 'https://cdn.rawgit.com/dvdsmpsn/homebrew-tap/master/repository-mirror/altassian-plugin-sdk/5.0.4/atlassian-plugin-sdk-5.0.4.tar.gz'
+  sha256 '3228aa6a742d7b28fa1374102fbf7c7c900e4f42870ea1ba22354c83ed1c23a1'
 
   def install
     # Remove windows files
