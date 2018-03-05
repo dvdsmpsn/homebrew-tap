@@ -18,7 +18,7 @@ class AtlassianPluginSdk42 < Formula
   end
 
   def caveats
-    <<-EOS.undent
+    <<-EOS
       Thanks for installing the Atlassian Plugin SDK. For more information,
       visit https://developer.atlassian.com.
 
