@@ -1,5 +1,5 @@
 ## from https://github.com/Homebrew/homebrew/blob/1ebb60b6e5762beb26cfb62a8a1f4ef1692f6540/Library/Formula/maven.rb
-class Maven < Formula
+class Maven221 < Formula
   homepage "https://maven.apache.org/"
   url "https://archive.apache.org/dist/maven/maven-2/2.2.1/binaries/apache-maven-2.2.1-bin.tar.gz"
   sha256 "3ac63025e5860c4d856e172ab556d14b52f9b1f1"
