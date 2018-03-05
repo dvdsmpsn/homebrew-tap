@@ -1,5 +1,5 @@
 ## from https://github.com/Homebrew/homebrew/blob/1ebb60b6e5762beb26cfb62a8a1f4ef1692f6540/Library/Formula/maven.rb
-class Maven < Formula
+class Maven325 < Formula
   homepage "https://maven.apache.org/"
   url "http://www.apache.org/dyn/closer.cgi?path=maven/maven-3/3.2.5/binaries/apache-maven-3.2.5-bin.tar.gz"
   mirror "https://archive.apache.org/dist/maven/maven-3/3.2.5/binaries/apache-maven-3.2.5-bin.tar.gz"
